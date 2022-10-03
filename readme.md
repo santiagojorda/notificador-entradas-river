@@ -1,1 +1,1 @@
-## Notificador de venta de entradas | River Plate | Bot Twitter
+## Notificador | Entradas de River Plate | Bot de Twitter
